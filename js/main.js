@@ -187,7 +187,7 @@ function closeLightbox() {
     },500);
 }
 
-fetchArticles('https://gist.githubusercontent.com/ekinsigic/9c48a3f88deacd88f85fa71f4dbff82b/raw/aabdcc89edfe099ce4d441573bf02a1349d7653d/de-demo.json');
+fetchArticles('https://gist.githubusercontent.com/ekinsigic/9c48a3f88deacd88f85fa71f4dbff82b/raw/b98874908ae9102de328d3a1f6b57a86b34f977c/de-demo.json');
 
 
 // This is an interaction I'm copying directly from another website I made, woden.co
